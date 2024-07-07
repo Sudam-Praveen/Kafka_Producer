@@ -47,4 +47,8 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
 </project>
